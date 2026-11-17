@@ -16,6 +16,10 @@ Zener diode – The diodes, which are designed to operate in the breakdown regio
 
 Circuit diagram (forward and reverse bias)
 
+
+
+
+
 Procedure / simulation reference
 <img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/e72f80e1-ef53-4966-ad3b-d07db507f3eb" />
 
